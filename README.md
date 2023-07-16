@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Language C- Hello World
+Alx-low_level_programming
