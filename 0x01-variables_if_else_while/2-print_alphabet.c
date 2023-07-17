@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - A program that printsthe alphabet in lowercase
  *
- * Retrun: Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
